@@ -16,3 +16,11 @@
 | cezara | 29zl |
 | grecka | 29zl |
 | pomidory z cebulka i bazylia | 19zl |
+
+## Dodatki
+
+| nazwa | cena |
+| :-: | :-:|
+| Frytki | 15zl |
+| ekstra ser | 5zl |
+| pikantan oliwa | 7zl |
