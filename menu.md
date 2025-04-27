@@ -2,7 +2,7 @@
 
 ## Pizze
 
-<img scr = "img/ai-generated-8711272_640.jpg" width = 200>
+<img src = "img/ai-generated-8711272_640.jpg" width = 200>
 
 | nazwa | 30cm | 45cm |
 |:-:|:-:|:-:|
