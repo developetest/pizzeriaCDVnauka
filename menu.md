@@ -1,7 +1,7 @@
 # Menu
 
 ## Pizze
-
+<img scr = "img/ai-generated-8711272_640.jpg" width = 200>
 | nazwa | 30cm | 45cm |
 |:-:|:-:|:-:|
 | margharita | 16zl | 29zl |
