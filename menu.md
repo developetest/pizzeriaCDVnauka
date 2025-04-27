@@ -1,3 +1,5 @@
 # Menu
 
-Tresc
+#Pizze 32cm 45cm
+margharita 16 29
+capriciosa 20 40
