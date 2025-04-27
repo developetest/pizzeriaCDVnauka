@@ -3,8 +3,8 @@
 ## Pizze
 | nazwa | 30cm | 45cm |
 |-|-|-|
-| margharita | 16 | 29 |
-| fungi | 17 | 30 |
-|capriciosa | 19 | 32 |
+| margharita | 16zl | 29zl |
+| fungi | 17zl | 30zl |
+|capriciosa | 19zl | 32zl |
 
 
